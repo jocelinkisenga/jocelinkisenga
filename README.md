@@ -18,12 +18,10 @@
  - unilu news (en cours..)<br><br>
  - <a href="lushidev.github.io" target="blank"> Lushidev </a>
 
-
-
-
-- 📫 contact me kisengajocelin7@gmail.com
-- 
+<h2 align="center"> Mes statistiques sur github </h2>
+<div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jocelinkisenga&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /><!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jocelinkisenga&show_icons=true&hide_border=true" /> -->
+  </div>
 
 
  
