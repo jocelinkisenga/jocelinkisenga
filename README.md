@@ -8,4 +8,7 @@
 
 - 📫 contact me kisengajocelin7@gmail.com
 
+
+<img align="center" src="https://github-readme-stats.vercel.app/api//?username=jocelinkisenga&commit=true" />  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jocelinkisenga&commit=true" />  
+
 ![](https://img.shields.io/badge/<PHP>-<LARAVEL>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)   ![](https://img.shields.io/badge/<PYTHON>-<DESKTOP>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
