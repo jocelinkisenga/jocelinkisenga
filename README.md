@@ -21,8 +21,14 @@
 <h2 align="center"> Mes statistiques sur github </h2>
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jocelinkisenga&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /><!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jocelinkisenga&show_icons=true&hide_border=true" /> -->
-  </div>
+  </div><br>
+  <h2 align="center"> Me contacter</h2>
+<div align="center">
+- 📞 whatsapp : +243 850244690<br>
+- ☎ telephone : +243 991161449<br>
+- 📩 email : kisengajocelin7@gmail.com
+  </div><br>
 
 
- 
-![](https://img.shields.io/badge/<PHP>-<LARAVEL>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)   ![](https://img.shields.io/badge/<PYTHON>-<DESKTOP>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
+  ![](https://img.shields.io/badge/<PHP>-<LARAVEL>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)   ![](https://img.shields.io/badge/<PYTHON>-<DESKTOP>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
