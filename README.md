@@ -12,7 +12,7 @@
  - Lushidev Community<br><br>
  - LushiBot : 
 
- <h2 align="center">Projects sur les quels j'ai travaillés</h2><br>
+ <h2 align="center">Projets sur les quels j'ai travaillés</h2><br>
  - <a href="monopoleglobal.com" target="_blank">Monopole global </a><br><br>
  - Hkat-Musique (en cours..)<br><br>
  - unilu news (en cours..)<br><br>
