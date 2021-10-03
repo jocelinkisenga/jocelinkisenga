@@ -13,10 +13,10 @@
  - LushiBot : 
 
  <h2 align="center">Projets sur les quels j'ai travaillés</h2><br>
- - <a href="monopoleglobal.com" target="_blank">Monopole global </a><br><br>
+ - (https://monopoleglobal.com)Monopole global </a><br><br>
  - Hkat-Musique (en cours..)<br><br>
  - unilu news (en cours..)<br><br>
- - <a href="lushidev.github.io" target="_blank"> Lushidev </a>
+ - (https://lushidev.github.io) Lushidev </a>
 
 <h2 align="center"> Mes statistiques sur github </h2>
 <div align="center">
