@@ -13,7 +13,7 @@
  - LushiBot : 
 
  <h2 align="center">Projets sur les quels j'ai travaillés</h2><br>
- - (https://monopoleglobal.com)Monopole global </a><br><br>
+ - (https://monopoleglobal.com) Monopole global ><br><br>
  - Hkat-Musique (en cours..)<br><br>
  - unilu news (en cours..)<br><br>
  - (https://lushidev.github.io) Lushidev </a>
