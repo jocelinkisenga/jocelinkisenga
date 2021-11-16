@@ -32,3 +32,10 @@
 
 
   ![](https://img.shields.io/badge/<PHP>-<LARAVEL>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)   ![](https://img.shields.io/badge/<PYTHON>-<DESKTOP>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
+
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jocelinkisenga&label=Profile%20views&color=0e75b6&style=flat" alt="jocelinkisenga" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jocelinkisenga" alt="jocelinkisenga" /></a> </p>
