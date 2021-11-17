@@ -1,22 +1,6 @@
 # Salut monsieur! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <h1 align="center"> A propos de moi </h1><br>
-  <p>je suis Jocelin kisenga, developpeur junior chez monopole global, je suis actuellement étudiant  à l'université de lubumbashi et passionné par les technologies de l'information.</p> <p>La programmation a été ma passion dépuis un certains nombres d'années, jusqu'à tel point que je me suis lancé dans l'auto-formation avec l'aide des personnes telles que:<strong> @bernard Ngandu</strong>, <strong>@vander otis</strong>,<strong> @Gloire kafwalubi</strong>,<strong> @Patrick salumu</strong> ,<strong>@Daniel Assani</strong></p>
- <h2 align="center"> Mes formations</h2><br>
- - Php : sololearn, Openclassroom, freecodecamp<br><br>
- - Python: sololearn, openclassroom, Freecodecamp, SaylorAcademy<br><br>
- - Html: sololern, openclassroom, freecodecamp, w3schools<br><br>
-
-
- <h2 align="center"> Mes Projets</h2><br>
- - Septchapp : september chat application<br><br>
- - Lushidev Community<br><br>
- - LushiBot : 
-
- <h2 align="center">Projets sur les quels j'ai travaillés</h2><br>
- - (https://monopoleglobal.com) Monopole global ><br><br>
- - Hkat-Musique (en cours..)<br><br>
- - unilu news (en cours..)<br><br>
- - (https://lushidev.github.io) Lushidev </a>
+  <p>je suis Jocelin kisenga, developpeur junior chez monopole global, je suis actuellement étudiant  à l'université de lubumbashi et passionné par les technologies de l'information.</p> <p>La programmation a été ma passion dépuis un certains nombres d'années.</p>
 
 <h2 align="center"> Mes statistiques sur github </h2>
 <div align="center">
