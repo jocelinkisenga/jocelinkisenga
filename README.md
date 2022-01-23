@@ -15,8 +15,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jocelinkisenga&theme=radical" alt="jocelinkisenga" /></a> </p>
 <Div>
  <H2>Mes projets</h2>
-<a href="https://musique.monopoleglobal.com">Hkat-Musique</a>
-<a href="https://monopoleglobal.com"> Monopole global</a>
+<a href="https://musique.monopoleglobal.com">Hkat-Musique</a><br>
+<a href="https://monopoleglobal.com"> Monopole global</a><br>
+<a href="https://lushidev.hashnode.dev">Lushidev</a>
 </Div>
 <Div>
 
