@@ -1,4 +1,4 @@
-# Salut monsieur! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 <h1 align="center"> A propos de moi! </h1><br>
   <p>je suis developpeur junior et passionné par les technologies de l'information.</p> <p>je vous offre des solutions informatiques .</p>
 
