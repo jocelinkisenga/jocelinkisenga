@@ -26,12 +26,6 @@
 </Div>
 
 
-<div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=jocelinkisenga&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jocelinkisenga&layout=compact" />
-</div>
-
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jocelinkisenga&theme=dark)](https://git.io/streak-stats)
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jocelinkisenga&langs_count=5&theme=tokyonight)]()
