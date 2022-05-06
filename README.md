@@ -30,7 +30,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jocelinkisenga&theme=dark)](https://git.io/streak-stats)
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jocelinkisenga&langs_count=5&theme=tokyonight)]()
+//[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jocelinkisenga&langs_count=5&theme=tokyonight)]()
 
 
 ## 🧰 Languages and Tools:
