@@ -28,9 +28,9 @@
 </Div>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jocelinkisenga&theme=dark)](https://git.io/streak-stats)
-
+<!--
 ## graph activity
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=jocelinkisenga&theme=dracula&color=B994E6&bg_color=2B2D3D" />
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=jocelinkisenga&theme=dracula&color=B994E6&bg_color=2B2D3D" /> -->
 
 
 ## 🧰 Languages and Tools:
