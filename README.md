@@ -14,7 +14,7 @@
  <H2>Mes projets :</h2>
 1. <a href="https://elvinkyungu.github.io/Hkat/">Hkat-Musique</a>: still working on <br>
 2. <a href="https://monopoleglobal.com"> Monopole global</a><br>
-3. <a href="https://lushidev.hashnode.dev">Lushidev</a> : This is my blog
+3. <a href="https://lushidev.hashnode.dev">Lushidev</a> : This is my blog <br>
 4. <a href="http://contactuapp.herokuapp.com/">Contact management </a>
 </Div>
 <Div>
