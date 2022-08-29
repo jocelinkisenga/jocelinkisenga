@@ -1,7 +1,7 @@
 
 <h1 align="center"> A propos de moi! </h1><br>
   <p>I am junior web backend developper .</p> 
-  <p>And i'm open to work on any web project with the need of php as programming language and its framework laravel.</p>
+  <p>And i'm open to work on a web project.</p>
 
 
 
