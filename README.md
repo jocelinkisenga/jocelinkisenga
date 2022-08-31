@@ -1,7 +1,7 @@
 
 <h1 align="center"> A propos de moi! </h1><br>
   <p>I am junior web backend developper .</p> 
-  <p>And i'm open to work on a web project.</p>
+  <p>And i'm open to work on a web project .</p>
 
 
 
@@ -11,7 +11,7 @@
 
 
 <Div>
- <H2>Mes projets :</h2>
+ <H2>Mes projects :</h2>
 1. <a href="https://elvinkyungu.github.io/Hkat/">Hkat-Musique</a>: still working on <br>
 
 2. <a href="https://lushidev.hashnode.dev">Lushidev</a> : This is my blog <br>
