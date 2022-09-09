@@ -1,6 +1,6 @@
 
 <h1 align="center"> A propos de moi! </h1><br>
-  <p>I am junior web backend developper .</p> 
+  <p>I am web backend developper .</p> 
   <p>And i'm open to work on a web project .</p>
 
 
