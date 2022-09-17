@@ -8,8 +8,6 @@
 
 
   ![](https://img.shields.io/badge/<PHP>-<LARAVEL>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-
-
 <Div>
  <H2>Mes projects :</h2>
 1. <a href="https://elvinkyungu.github.io/Hkat/">Hkat-Musique</a>: still working on <br>
@@ -23,10 +21,9 @@
 <div align="center">
 - 📞 whatsapp : +243 850244690<br>
 - ☎ telephone : +243 991161449<br>
-- 📩 email : kisengajocelin7@gmail.com
+- 📩 mail : kisengajocelin7@gmail.com
   </div><br>
 </Div>
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jocelinkisenga&theme=dark)](https://git.io/streak-stats)
 <!--
 ## graph activity
