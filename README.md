@@ -3,10 +3,6 @@
   <p>I am web backend developper .</p> 
   <p>And i'm open to work on a web project .</p>
 
-
-
-
-
   ![](https://img.shields.io/badge/<PHP>-<LARAVEL>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 <Div>
  <H2>Mes projects :</h2>
