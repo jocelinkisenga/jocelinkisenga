@@ -7,9 +7,9 @@
 <Div>
  <H2>Mes projects :</h2>
 
-2. <a href="https://lushidev.hashnode.dev">Lushidev</a> : This is my blog <br>
-3. <a href="http://contactuapp.herokuapp.com/">Contact management </a> <br>
-4. <a href="http://club-elearning.herokuapp.com/api/courses"> api E-learning </a>
+1. <a href="https://lushidev.hashnode.dev">Lushidev</a> : This is my blog <br>
+2. <a href="http://contactuapp.herokuapp.com/">Contact management </a> <br>
+3. <a href="http://club-elearning.herokuapp.com/api/courses"> api E-learning </a>
 </Div>
 <Div>
 
