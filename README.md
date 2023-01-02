@@ -6,7 +6,7 @@
   ![](https://img.shields.io/badge/<PHP>-<LARAVEL>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 <Div>
  <H2>Mes projects :</h2>
-1. <a href="https://elvinkyungu.github.io/Hkat/">Hkat-Musique</a>: still working on <br>
+
 2. <a href="https://lushidev.hashnode.dev">Lushidev</a> : This is my blog <br>
 3. <a href="http://contactuapp.herokuapp.com/">Contact management </a> <br>
 4. <a href="http://club-elearning.herokuapp.com/api/courses"> api E-learning </a>
