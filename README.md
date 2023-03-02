@@ -1,4 +1,5 @@
-![I'm Jocelin kisenga] ([https://media.licdn.com/dms/image/C4D16AQGv0E23FewHrw/profile-displaybackgroundimage-shrink_350_1400/0/1663916877786?e=1683158400&v=beta&t=lKDyPJN6CeUmE42auRIBMO3MYj8QYKmZxu59TXaFFnw](https://media.licdn.com/dms/image/C4D16AQGv0E23FewHrw/profile-displaybackgroundimage-shrink_350_1400/0/1663916877786?e=1683158400&v=beta&t=lKDyPJN6CeUmE42auRIBMO3MYj8QYKmZxu59TXaFFnw))
+![I'm Jocelin kisenga] ![image](https://user-images.githubusercontent.com/72705409/222422503-65de22ed-e332-4fd3-ab48-909995a8d54e.png)
+
 
 # 👨🏾About Me
 
