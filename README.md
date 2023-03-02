@@ -1,4 +1,4 @@
-![I'm Jocelin kisenga](https://user-images.githubusercontent.com/75522169/169711855-104f408b-99e8-42aa-b00c-49fcf867a0b1.png)
+![I'm Jocelin kisenga] (https://media.licdn.com/dms/image/C4D16AQGv0E23FewHrw/profile-displaybackgroundimage-shrink_350_1400/0/1663916877786?e=1683158400&v=beta&t=lKDyPJN6CeUmE42auRIBMO3MYj8QYKmZxu59TXaFFnw)
 
 # 👨🏾About Me
 
