@@ -30,6 +30,3 @@ I am enthusiastic about other fields of tech as well I even write [blogs](https:
  
  [Linkedin](https://www.linkedin.com/in/jocelinkisenga/) or [Twitter](https://twitter.com/jocelin_kisenga)
 
-# 📉 Stats
-
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jocelinkisenga&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jocelinkisenga&layout=compact&theme=buefy&hide_border=true" /></a> |
