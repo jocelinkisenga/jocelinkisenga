@@ -1,13 +1,4 @@
 
-
-
-# 👨🏾About Me
-
-## 👋Hey There!! 
-
-My name is Jocelin and I am an undergraduate studying towards a degree in **computer science**. I specialise in all things web development ranging from *backend development*, *database management*, *IT audit* and a bit of *digital forensics*. I am a passionate community contributer. 
-
-  
 # 📜Articles
 
 I am enthusiastic about other fields of tech as well I even write [blogs](https://lushidev.com/) surrounding topics like *native programming*, *Artificial Intelligence* and *Web Development*.
