@@ -1,4 +1,4 @@
- ![image](https://user-images.githubusercontent.com/72705409/222422503-65de22ed-e332-4fd3-ab48-909995a8d54e.png)
+
 
 
 # 👨🏾About Me
