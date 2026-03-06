@@ -61,5 +61,5 @@ Je suis **Ingénieur Logiciel** passionné par le développement d'applications 
   <a href="mailto: kisengajocelin7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<p align="right"><i>Dernière mise à jour : Février 2025 🚀</i></p>
+<p align="right"><i>Dernière mise à jour : Mars 2025 🚀</i></p>
 
